@@ -6,4 +6,8 @@ Mark D. McDonnell, Dong Gong, Ehsan Abbasnejad, Anton van den Hengel (2024). "Pr
 
 Contact: <mark.mcdonnell@adelaide.edu.au>
 
-Code release coming forthwith.
+Full python code release coming forthwith. 
+
+Currently, we provide demo jupyter notebooks that illustrate how a realm description prompt is converted to synthetic datasets for Premonition's supervised pre-training.
+-Notebooks/Get_SD_Prompts_From_Realm
+-Notebooks/Get_Images_from_Prompts
